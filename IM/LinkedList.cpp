@@ -6,7 +6,7 @@ using namespace std;
 // Constructor
 LinkedList::LinkedList()
 {
-	first_	 = 0;
+	first_	 = 1;
 	last_	 = 0;
 	listLen_ = 0;
 }
